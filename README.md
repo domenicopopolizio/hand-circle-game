@@ -1,5 +1,7 @@
 # hand-circle
 
+See it in action at: https://hand-circle-game.web.app
+
 ## Project setup
 ```
 npm install
